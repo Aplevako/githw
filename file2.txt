@@ -1,3 +1,7 @@
 28.04.2021
 11:50
+<<<<<<< HEAD
 text in local branch
+=======
+fix UI
+>>>>>>> 154ccd9b925d033226b0030bc450c5f47c379d4f
