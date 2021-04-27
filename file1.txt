@@ -1,4 +1,9 @@
 28.04.2021
 11:17
+<<<<<<< HEAD
 
 edit local
+=======
+Edit from ui
+
+>>>>>>> d6924dc4c1febcea239bbf5cf505bc7f9ff02b9d
